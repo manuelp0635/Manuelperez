@@ -276,8 +276,8 @@ h2 {
 }
 
 a{
-    color: rgb(255, 255, 255);
-    border-bottom: 3px solid #af20d3;
+    color: #ccc;
+    border-bottom: 3px #ccc;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
